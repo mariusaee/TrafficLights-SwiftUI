@@ -17,7 +17,6 @@ struct Light: View {
             .overlay(Circle().stroke(Color.white, lineWidth: 4))
             .padding(.bottom)
     }
-    
 }
 
 struct Light_Previews: PreviewProvider {
